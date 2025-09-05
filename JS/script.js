@@ -10,7 +10,7 @@ let concFixa = 0.38;
 let essen = essencia.value;
 let conc = concentracao.value;
 let porcento = '%'
-let cc = '38%'
+let cc = '27%'
 
 if (conc>0) {
     let calc = essen/(conc/100)
